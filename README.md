@@ -2,7 +2,7 @@
 # RESUME
 ## Contact details:
 ```Name```: M.Vineetha <br>
-```Phone number```: 9347374353 <br>
+```Phone number```: 12334567 <br>
 ```Email id```: mademvineetha@gmail.com 
 ## Education details: 
 
